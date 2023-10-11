@@ -196,6 +196,7 @@ Oracle VM VirtualBox is cross-platform virtualization software. It allows users 
 
 
 ## OpenFaaS
+OpenFaaS (Function as a Service) is an open-source framework for building serverless functions that utilize Docker and Kubernetes, allowing for highly scalable resource usage within a unified package that also works to eliminate repetitive, boilerplate coding with a robust template library.
 
 
 ## PaaS
