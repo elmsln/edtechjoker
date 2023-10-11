@@ -138,8 +138,15 @@ https://www.oracle.com/mysql/what-is-mysql/
 ## WebAssembly
 
 
-## Python
+## Python 
+Python is an objected oriented, high level programming langueage that is easy to use and utilizes dynamic typing and language. This language is perfect for rapid application development becasue of how usable and friendly it is. It is an easier to learn language and allows for growth in the coding community. 
+Read more: https://www.python.org/doc/essays/blurb/ 
+```
+numbers = [2, 4, 6, 8, 10]
+sum_result = sum(numbers)
 
+print(f"The sum of the numbers is: {sum_result}")
+```
 
 ## Docker
 Think of Docker like a special box filled with building blocks, the kind you'd use to make awesome stuff like houses, cars, or robots. You know how building things is fun, but redoing them exactly the same way can be a bit of a chore? Well, Docker comes to the rescue! It's like a super-efficient building block organizer. You can store all the specific blocks you need in this virtual box, and when you want to build something again, Docker helps you put them all together effortlessly.
