@@ -139,7 +139,15 @@ https://www.oracle.com/mysql/what-is-mysql/
 
 
 ## Python
+Python is a computer programming language which is commonly utilized when constructing software. Python is a simple, very user-friendly language and syntax with easy readability. This allows for the quick and efficient development of software and maintanance. Python was released on February 20th, 1991 by Guido van Rossum in hopes of creating a successor to ABC which was capable of interfacing with the Amoeba operating system.
 
+Here is an example of some sample code written in Python:
+```
+numbers = [1, 2, 3, 4, 5]
+
+for num in numbers:
+    print(num)
+```
 
 ## Docker
 Think of Docker like a special box filled with building blocks, the kind you'd use to make awesome stuff like houses, cars, or robots. You know how building things is fun, but redoing them exactly the same way can be a bit of a chore? Well, Docker comes to the rescue! It's like a super-efficient building block organizer. You can store all the specific blocks you need in this virtual box, and when you want to build something again, Docker helps you put them all together effortlessly.
