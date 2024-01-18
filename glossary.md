@@ -117,6 +117,8 @@ https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meani
 
 
 ## Angular
+Angular is a framework for web application development. It uses TypeScript, which in turn is built on JavaScript. It was made by people at Google and is FOSS.
+```ngOnInit()``` and ```ngOnDestroy()``` are two really important methods that every Angular project uses.
 
 ## React
 
